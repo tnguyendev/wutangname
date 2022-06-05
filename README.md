@@ -13,4 +13,4 @@ Languages/frameworks use: HTML, CSS, JavaScript
 
 ## Thoughts:
 
-This one was pretty fun to work on. It reminded me a little bit of the horoscope project, where (I think) we first learned how to do conditionals. So this was a bit simialr in that aspect. Creating the randomized names and quiz options were pretty fun! 
+This one was pretty fun to work on. It reminded me a little bit of the horoscope project, where (I think) we first learned how to do conditionals. So this was a bit similar in that aspect. Creating the randomized names and quiz options were pretty fun! 
